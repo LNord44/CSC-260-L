@@ -1,0 +1,13 @@
+
+Cincinnati	Temple	SMU	Connecticut	
+North_Carolina	Florida_State	Duke	Miami	
+Dayton	VCU	St_Joseph	Davidson	
+Villanova	Xavier	Georgetown	Seton_Hall	
+Ohio_State	Indiana	Maryland	Wisconsin	
+Kansas	Oklahoma	Kansas_State	Oklahoma_State	
+Middle_Tennessee	Louisiana_Tech	Florida_Atlantic	Texas_El_Paso	
+Northern_Kentucky	Valparaiso	Oakland	Wright_State	
+Northern_Illinois	Toledo	Akron	Buffalo	
+Arizona	Arizona_State	UCLA	Utah	
+Kentucky	Texas_A_M	Mississippi	South_Carolina	
+Gonzaga	San_Diego	Brigham_Young	Santa_Clara	

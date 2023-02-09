@@ -1,0 +1,8 @@
+black	red	white	blue	orange	
+Cardinals	Mets	Pirates	Reds	Brewers	
+first	second	sixth	fourth	fifth	
+Zappa	Howe	Hackett	Metheny	Latimer	
+up	down	left	right	out	
+Anderson	Cheviot	Covington	Delhi	Highland_Heights	
+Grateful_Dead	Genesis	Phish	Van_der_Graaf_Generator	Yes	
+ear	eyelid	mouth	nose	throat	
